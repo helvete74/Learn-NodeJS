@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#my config
+# Dependency directories
+backend/node_modules/
+frontend/node_modules/
