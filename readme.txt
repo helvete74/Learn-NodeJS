@@ -12,7 +12,7 @@ adresse appli frontend : http://localhost:4200
 
 command pour backend : 
 	node server
-	nodemon server
+>	nodemon server
 
 adresse du serveur : http://localhost:3000
 

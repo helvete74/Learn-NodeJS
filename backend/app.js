@@ -9,7 +9,7 @@ app.use((req, res, next) => {
 
 app.use((req, res, next) => {
     res.status(201);
-    res.json({ message: 'Votre requete a bien été reçue !'});
+    res.json({ message: 'Votre requete a bien été reçue !'});  //retourne une reponse en json
     next();
 });
 
